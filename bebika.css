@@ -1,0 +1,10 @@
+p{
+   color: rgb(168, 228, 110);
+
+ 
+   background-color: black;
+   text-align: center;
+}
+table,th,td{
+   border:1px dotted black;
+}
